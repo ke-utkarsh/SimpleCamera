@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KiddoCamV2</string>
+    <string name="scrollt">This App is designed to click photos using Voice Command.</string>
+    <string name="scrollt1">All you need to do is say CHEESE!!</string>
+    <string name="scrollt2">To Operate on Voice Mode:</string>
+    <string name="scrollt3">1. Click On Cheese Button on the Camera Screen</string>
+    <string name="scrollt4">2. Just say \'CHEESE\' whenever you are ready for a perfect no-click pic:)</string>
+    <string name="but1">Go To  \'UtkCam\'</string>
+    <string name="tv1">Get a perfect photo without a CLICK!!</string>
+    <string name="bokeh">Bokeh</string>
+    <string name="a">A</string>
+</resources>
